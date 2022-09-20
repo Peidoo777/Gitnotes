@@ -164,4 +164,4 @@ npm run serve
 1. 如出现下载缓慢请配置 npm 淘宝镜像：npm config set registry
 https://registry.npm.taobao.org
 2. Vue 脚手架隐藏了所有 webpack 相关的配置，若想查看具体的 webpakc 配置，
-请执行：vue nspect > output.js
+请执行：vue inspect > output.js
